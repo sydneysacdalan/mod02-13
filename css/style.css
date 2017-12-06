@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+}
+.apo{
+    border: 10px solid black;
+    margin-left: 420px;
+    margin-right: 420px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    
+   }
+	
+ .father {
+ 	background-color: pink;
+ }   
+    
+p{
+	text-align: center;
+}
+
+h2{
+	background-color: red;
+	width: 1500px;
+	height: 600px;
+}
+
+h3{
+	background-color: black;
+    width: 1500px;
+	height: 600px;
+}
+
+h4{
+	background:pink;
+    width: 1500px;
+	height: 600px;
+}
+
+h5{
+	background-color: grey;
+    width: 1500px;
+	height: 600px;
+}
+
+.div{
+	background-color: grey;
+}
+
+
+
+
+
